@@ -1,19 +1,41 @@
 ## 🌻 INTRODUCTION
-  Hello everyone! I am Liam. An aspiring Data Analyst in the future!
+Hello everyone! I’m Liam, an aspiring Data Analyst.  
 
-  - Currently learning data handling and visualization in Excel.
-  - Using SQL and Python mainly for data analysis.
-  - Will develop dashboards on Tableu and PowerBI.
-  - Will also study AI/ML and Java for extra knowledge.
+- Currently working on data handling and visualization in **Excel**.  
+- Using **Python** mainly for data analysis.  
+- Also exploring **AI/ML** and expanding my knowledge of **Java**.  
+
+---
 
 ### 📂 Projects
-Will do in the future so stay tuned!
+Coming soon — stay tuned for hands-on analytics projects and dashboards!  
 
-### ⚙️ Tools
+---
 
-  - Language: SQL, Python
-  - Visualization: Tableu, PowerBI
-  - Other: Excel
+### ⚙️ Tools & Technologies
+
+**Programming:**  
+- C  
+- Java  
+- Python  
+
+**Data Analysis:**  
+- Microsoft Excel  
+- Google Sheets  
+
+**Data Platforms / Learning:**  
+- Kaggle  
+
+**Other:**  
+- GitHub  
+
+---
+
+### 📚 Currently Learning
+- Advanced Excel Skills
+- SQL (PostgreSQL)  
+- Data visualization (Tableau, Power BI)  
+- AI/ML fundamentals  
 
 ### 👥 Learn More About Me!
   - [LinkedIn](https://www.linkedin.com/in/htmleeyam/)
