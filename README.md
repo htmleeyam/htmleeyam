@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🌻 INTRODUCTION
+  Hello everyone! I am Liam. An aspiring Data Analyst in the future!
 
-<!--
-**htmleeyam/htmleeyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Currently learning data handling and visualization in Excel.
+  - Using SQL and Python mainly for data analysis.
+  - Will develop dashboards on Tableu and PowerBI.
+  - Will also study AI/ML and Java for extra knowledge.
 
-Here are some ideas to get you started:
+### 📂 Projects
+Will do in the future so stay tuned!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Tools
+
+  - Language: SQL, Python
+  - Visualization: Tableu, PowerBI
+  - Other: Excel
+
+### 👥 Learn More About Me!
+  - [LinkedIn](https://www.linkedin.com/in/htmleeyam/)
