@@ -33,7 +33,7 @@ Coming soon — stay tuned for hands-on analytics projects and dashboards!
 
 ### 📚 Currently Learning
 - Advanced Excel Skills
-- SQL (PostgreSQL)  
+- SQL (MySQL, PostgreSQL)  
 - Data visualization (Tableau, Power BI)  
 - AI/ML fundamentals  
 
