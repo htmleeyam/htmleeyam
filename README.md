@@ -1,3 +1,5 @@
+<img width="1006" height="292" alt="image" src="https://github.com/user-attachments/assets/6a4c198f-5779-4a38-bf2a-f8d619b49a70" />
+
 ## 🌻 INTRODUCTION
 Hello everyone! I’m Liam, an aspiring Data Analyst.  
 
