@@ -16,20 +16,20 @@ Coming soon — stay tuned for hands-on analytics projects and dashboards!
 
 ### ⚙️ Tools & Technologies
 
-**Programming:**  
-- C  
-- Java  
-- Python  
+**Programming:**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,java" />
+</p>
 
 **Data Analysis:**  
 - Microsoft Excel  
 - Google Sheets  
 
 **Data Platforms / Learning:**  
-- Kaggle  
+- Kaggle
 
 **Other:**  
-- GitHub  
+<img src="https://skillicons.dev/icons?i=github" />
 
 ---
 
